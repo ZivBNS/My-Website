@@ -11,7 +11,7 @@ const Home = () => {
             <h1 className="text-6xl font-bold tracking-wider">
               Hello 👋, I'm
             </h1>
-            <h1 className="text-7xl font-bold tracking-wider hover:scale-125 transition duration-500">
+            <h1 className="text-7xl font-bold tracking-wider">
               Ziv Ben Simon
             </h1>
             <p className="mt-6 text-3xl text capitalize tracking-wide">
