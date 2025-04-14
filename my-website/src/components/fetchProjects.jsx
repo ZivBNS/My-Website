@@ -9,7 +9,7 @@ const useFetchProjects = () => {
     setTimeout(() => {
       setProjects(projectsData);
       setIsLoading(false);
-    }, 1000); // סימולציה של טעינת נתונים
+    }, 500);
   }, []);
 
   return { isLoading, projects };
